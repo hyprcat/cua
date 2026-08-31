@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.23.3](https://github.com/trycua/cua/compare/cua-driver-rs-v0.23.2...cua-driver-rs-v0.23.3) (2026-08-31)
+
+
+### Bug Fixes
+
+* **cua-driver:** accept host identity in embedded health check ([#2170](https://github.com/trycua/cua/issues/2170)) ([8a3d79a](https://github.com/trycua/cua/commit/8a3d79aa79443ee3b821903c3e596463732ed18f))
+
 ## [0.23.2](https://github.com/trycua/cua/compare/cua-driver-rs-v0.23.1...cua-driver-rs-v0.23.2) (2026-08-31)
 
 
